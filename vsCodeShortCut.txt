@@ -1,0 +1,7 @@
+windows + w : to close the opened files 
+ctrl e : to search any files in the editor 
+ctrl tab : to move around opened files 
+files utils : extension that helps in manipulating files like : renaming, deleting, moving, etc
+advanced new files : extension that helps us in creating files using the keyboard easily
+ctrl shift x : to open extension 
+ctrl shift g : to open the git interface to commit and push the code 
